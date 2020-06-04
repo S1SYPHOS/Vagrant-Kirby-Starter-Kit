@@ -1,3 +1,2 @@
-.vagrant
-site/*
-!site/index.html
+/.vagrant
+/htdocs
